@@ -6,4 +6,19 @@ How is the staging area different from the working directory and the repository?
 
 The file is updates but you want to commit others files together.
 
+How do the diagrams help you visualize the branch structure?
 
+it is easy to understand 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+One branch
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic - less work but can merge nonsense code
+manual - more work but you can check the code
+
+When would you want to use a remote repository rather than keeping all your work local?
+
+To save version in the cloud
